@@ -13,8 +13,8 @@ img {
 }
 
 .vertical-line-yellow {
-    width: 80px; 
-    height: 370vh; 
+    width: 50px; 
+    height: 3000px; 
     background-color: yellow; 
     position: absolute;
     left: 0%; 
@@ -25,13 +25,13 @@ img {
     
 }
 .vertical-line-blue{
-    width: 80px; 
-    height: 268svh; 
+    width: 50px; 
+    height: 3000px; 
     background-color: rgb(44, 175, 215); 
     position: absolute;
     right: 0%; 
     transform: translateX(3%);
-    transform: translateY(100%);
+    transform: translateY(30%);
     display:flex
 
 }
@@ -46,6 +46,7 @@ header {
     margin: 0px;
     padding: 15px;
     text-align: center;
+
 }
 
 header nav ul {
